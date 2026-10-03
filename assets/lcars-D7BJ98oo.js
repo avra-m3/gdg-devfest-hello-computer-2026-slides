@@ -1,0 +1,1 @@
+import{R as e,V as t,y as n}from"./modules/shiki-DdHlGMPS.js";import{_ as r}from"./index-CKbpyTfL.js";var i={class:`slidev-layout lcars-layout lcars-layout--tier2`},a={__name:`lcars`,setup(a){let{$slidev:o,$nav:s,$clicksContext:c,$clicks:l,$page:u,$renderContext:d,$frontmatter:f}=r();return(r,a)=>(e(),n(`div`,i,[t(r.$slots,`default`)]))}};export{a as t};

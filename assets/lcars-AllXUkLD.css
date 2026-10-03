@@ -1,0 +1,1 @@
+.lcars-layout{background:var(--lcars-ground);position:absolute;inset:0}.lcars-layout--tier2{padding-top:calc(var(--lcars-strip-h) + var(--lcars-gap) * 2 + 16px);box-sizing:border-box;flex-direction:column;justify-content:flex-start;padding-bottom:24px;padding-left:48px;padding-right:48px;display:flex}

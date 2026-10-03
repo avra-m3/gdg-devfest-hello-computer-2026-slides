@@ -1,0 +1,1 @@
+var e=`/assets/hello-computer-tko-D7brMSC0.png`;export{e as t};

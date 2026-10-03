@@ -1,0 +1,1 @@
+.lcars-layout--tier1{padding-top:calc(var(--lcars-header-h) + var(--lcars-gap) + 32px);padding-left:calc(var(--lcars-rail-w) + var(--lcars-gap) + 48px);box-sizing:border-box;flex-direction:column;justify-content:center;padding-bottom:32px;padding-right:48px;display:flex}
